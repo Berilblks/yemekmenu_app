@@ -10,8 +10,8 @@ This project was undertaken to create a dynamic, cross-platform mobile applicati
 
 ## 🛠️ Technologies
 
-  | Main Language | Dart | The primary programming language for Flutter development. |
-  | Framework | Flutter SDK | Used for building natively compiled, multi-platform applications. |
+  -- Main Language : Dart (The primary programming language for Flutter development.)
+  -- Framework : Flutter SDK (Used for building natively compiled, multi-platform applications.)
 
 ##  Key Features
 
