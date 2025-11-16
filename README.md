@@ -8,7 +8,7 @@ This project was undertaken to create a dynamic, cross-platform mobile applicati
 
     -- Cross-Platform Architecture: The application is built once using **Flutter** and **Dart**, allowing it to run natively on both iOS and Android platforms, ensuring a consistent user experience.
 
-## 🛠️ Technologies
+## Technologies
 
   -- Main Language : Dart (The primary programming language for Flutter development.)
   -- Framework : Flutter SDK (Used for building natively compiled, multi-platform applications.)
