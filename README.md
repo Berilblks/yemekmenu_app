@@ -1,16 +1,20 @@
-# yemekmenuu_app
+# Food Menu Application Enhanced with Flutter
 
-A new Flutter project.
+This project is a multi-platform mobile application developed using Dart and Flutter to display and manage food menus digitally.
 
-## Getting Started
+## About the Project
 
-This project is a starting point for a Flutter application.
+This project was undertaken to create a dynamic, cross-platform mobile application for displaying, managing, and categorizing food menus, allowing me to facilitate, digitize, and improve my skills in modern mobile development.
 
-A few resources to get you started if this is your first Flutter project:
+    -- Cross-Platform Architecture: The application is built once using **Flutter** and **Dart**, allowing it to run natively on both iOS and Android platforms, ensuring a consistent user experience.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Technologies
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  | Main Language | Dart | The primary programming language for Flutter development. |
+  | Framework | Flutter SDK | Used for building natively compiled, multi-platform applications. |
+
+##  Key Features
+
+  * Menu Viewing:  Dynamic display of all food items and their details (description, price, image).
+  * Item Details: Viewing detailed information for individual food items.
+  * Search and Filter: Quick search capability across menu items by name or description.
