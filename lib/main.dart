@@ -37,7 +37,7 @@ class _AnasayfaState extends State<Anasayfa> {
   Future<List<Yemekler>> yemekleriAl() async {
     var yemekListesi = <Yemekler>[];
 
-    var y1 = Yemekler(1, "Köfte", "kofte.png", 15.99);
+    var y1 = Yemekler(1, "Köfte", "kofte.png", 20.99);
     var y2 = Yemekler(2, "Ayran", "ayran.png", 2.0);
     var y3 = Yemekler(3, "Fanta", "fanta.png", 3.0);
     var y4 = Yemekler(4, "Makarna", "makarna.png", 14.99);
